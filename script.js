@@ -12,7 +12,7 @@ function compute()
     if principal<=0;
     {
         alert("Enter a positive number")
-        onclick.focus("principal")
+        
     }
 
 }
